@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174206322173",
+    "project_id": "brasilburger-ce937",
+    "storage_bucket": "brasilburger-ce937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174206322173:android:3bf16e8c3cb6cc9c208594",
+        "android_client_info": {
+          "package_name": "com.example.gestion_commande_flutter_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174206322173-tpm68dmhijrgpd3i3f44lkj9amb576ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACxsdaJ1angyEgfzm4GODyyJ1DMTrgP6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174206322173-tpm68dmhijrgpd3i3f44lkj9amb576ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
